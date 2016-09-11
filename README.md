@@ -1,2 +1,2 @@
-# dockerfile_centos7_tomcat
-jdk,tomcat
+# dockerfile_centos7_mysql
+mysql
